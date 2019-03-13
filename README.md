@@ -1,4 +1,5 @@
 # Sample Python app for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/GPP-SP/Playground/_apis/build/status/arikYohai.pipelines-python-django?branchName=master)](https://dev.azure.com/GPP-SP/Playground/_build/latest?definitionId=2&branchName=master)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
